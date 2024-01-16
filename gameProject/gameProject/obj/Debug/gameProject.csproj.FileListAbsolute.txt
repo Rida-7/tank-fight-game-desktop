@@ -1,0 +1,16 @@
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\bin\Debug\gameProject.exe.config
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\bin\Debug\gameProject.exe
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\bin\Debug\gameProject.pdb
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\bin\Debug\EZInput.dll
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\bin\Debug\EZInput.xml
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.MainForm.resources
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.Properties.Resources.resources
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.csproj.GenerateResource.cache
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.csproj.CopyComplete
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.exe
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.pdb
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.LoseForm.resources
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.StartForm.resources
+D:\2nd SEMESTER\OOP LAB\Projects\gameProject\gameProject\obj\Debug\gameProject.WinForm.resources
